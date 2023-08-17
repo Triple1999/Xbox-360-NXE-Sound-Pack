@@ -1,0 +1,10 @@
+{
+  "name": "Xbox 360 NXE",
+  "description": "Xbox 360 NXE Dashbard Sounds",
+  "Author": "Triple1999",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore" [],
+  "mappings" {},
+}
